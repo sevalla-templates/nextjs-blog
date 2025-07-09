@@ -1,0 +1,4 @@
+/old-page           /                           301
+/temp-move          /                           302
+/non-existent       /404                        404
+/external           https://google.com          301
