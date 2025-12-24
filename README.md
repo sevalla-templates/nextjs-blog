@@ -27,3 +27,4 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 ## Learn More
 
 Feel free to check [our documentation](https://docs.sevalla.com) or jump into our [Discord server](https://discord.gg/sevalla).
+# docker rebuild Wed Dec 24 20:37:34 IST 2025
